@@ -1,0 +1,27 @@
+1. ¿Qué es un IDE? Cite Ejemplos.
+
+Un Integrated development environment (IDE), por sus siglas en inglés, ambiente de desarrollo interactivo o entorno de desarrollo integrado, es una aplicación de software que proporciona servicios integrales para facilitarle al programador de computadora el desarrollo de software. Normalmente, un IDE consiste de un editor de código fuente, herramientas de construcción automáticas, y un depurador. La mayoría de los IDEs tienen auto completado inteligente de código. Algunos ejemplos de IDE son Netbeans, y Eclipse.
+
+2. ¿Qué es programación estructurada?
+
+La programación estructurada es un paradigma de programación orientado a mejorar la claridad, calidad, y tiempo de desarrollo de un programa de computadora recurriendo únicamente a subrutinas y tres estructuras básicas: secuencia, selección, e iteración.
+
+3. ¿Qué es la programación orientada a objetos?
+
+La programación orientada a objetos es un paradigma de programación que usa objetos y sus interacciones para diseñar aplicaciones y programas informáticos. Está basado en varias técnicas, incluyendo herencia, abstracción, polimorfismo y encapsulamiento.
+
+4. ¿Qué es un lenguaje de bajo nivel?
+
+Un lenguaje de programación de características de bajo nivel es aquel en el que sus instrucciones ejercen un control directo sobre el hardware y están condicionados por la estructura física de las computadoras que lo soportan. El uso de la palabra ‘bajo’ en su denominación no implica que el lenguaje sea menos potente que un lenguaje de alto nivel, sino que se refiere a la reducida abstracción entre el lenguaje y el hardware. Por ejemplo, se utiliza este tipo de lenguajes para programar tareas críticas de los sistemas operativos, de aplicaciones en tiempo real o controladores de dispositivos.
+
+5. ¿Qué es un lenguaje de alto nivel?
+
+Un lenguaje de programación de alto nivel se caracteriza por expresar los algoritmos de una manera adecuada a la capacidad cognitiva humana, en lugar de la capacidad con que los ejecutan las máquinas. Los lenguajes de alto nivel se crearon para que el usuario común pudiese solucionar un problema de procesamiento de datos de una manera más fácil y rápida.
+
+6. ¿Qué es un intérprete?
+
+En ciencias de la computación, intérprete o interpretador es un programa informático capaz de analizar y ejecutar otros programas.
+
+7. ¿Qué es un compilador?
+
+Un compilador es un programa informático que traduce un programa que ha sido escrito en un lenguaje de programación a un lenguaje común, usualmente lenguaje de máquina, aunque también puede ser traducido a un código intermedio, o a texto, y que reúne diversos elementos o fragmentos en una misma unidad.
