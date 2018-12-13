@@ -302,7 +302,6 @@ namespace Examen
         //Recorre la cola buscando el elemento espcificado por el usuario.
         static void buscarPedido(ref Queue cola)
         {
-            int i = 0;
             int cont1 = 0;
             if (cola.Count != 0)
             {
@@ -312,8 +311,7 @@ namespace Examen
                 Console.WriteLine("\nPedidos encontrados: ");
                 foreach (string dato in cola)
                 {
-                    i++;
-                    string consulta = i + " – " + consultar;
+                    string consulta = dato[0] + " – " + consultar;
 
                     if(dato == consulta)
                     {
